@@ -1,5 +1,5 @@
 これは、サンプルデータです。
-# orijinal_pic
+# original_pic
 　StyleGAN2/Search_for_Yui.ipynb で使用する画像データです。
 # target_pic
 　ProgressiveGAN/Search_for_Yui.ipynb で使用する画像データです。
